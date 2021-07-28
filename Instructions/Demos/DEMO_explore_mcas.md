@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Microsoft Cloud App Security'
     module: 'Модуль 3. Урок 4. Описание возможностей решений безопасности Майкрософт. Описание защиты от угроз с помощью Microsoft 365 Defender'
